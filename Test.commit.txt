@@ -1,0 +1,2 @@
+This is the first test for file created
+Will test with git status and git add commands
